@@ -19,6 +19,10 @@ Cara-cara=
 1. Upload Enroll Fingerprint > Enroll berfungsi untuk mendaftarkan fingerprint seseorang 
 
 NOTE. Saat enroll cabut semua peripherals (semua yang tercolok ke arduino kecuali FP sensor)
-  1.1. Sesuaikan Baud Rate terhadap Arduino
-  1.2. Masuk ke Serial Monitor
-  1.3. Setelah masuk silahkan ikuti langkah-langkah yang sudah di tampilkan di Serial Monitor
+
+  1.1. Sesuaikan Baud Rate terhadap Arduino	
+	
+  1.2. Masuk ke Serial Monitor	
+	
+  1.3. Setelah masuk silahkan ikuti langkah-langkah yang sudah di tampilkan di Serial Monitor	
+	
