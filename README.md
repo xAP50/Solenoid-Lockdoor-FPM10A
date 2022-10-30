@@ -1,6 +1,6 @@
 # Solenoid-Lockdoor-FPM10A
 
-Diagram atau jalan kabel sudah ada di File Diagram
+Diagram atau jalan kabel sudah ada di File Fingerprint-LockSystem.PNG
 
 <Req=>
 
